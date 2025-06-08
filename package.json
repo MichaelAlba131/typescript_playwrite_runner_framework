@@ -1,0 +1,14 @@
+{
+  "name": "javascript_playwrite_runner_framework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Michael_Alba",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.30"
+  }
+}
